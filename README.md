@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# NoBedTooFar
 
-## Setup
+## Usage
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+*Compatible with Minecraft 1.21*
 
-## License
+Allows players to sleep as long as they can interact with the bed, thus removing the annoying 'bed is too far away' message.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+
+This mod is server-side and does not require installation on the client.
